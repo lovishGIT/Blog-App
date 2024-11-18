@@ -1,0 +1,8 @@
+.vscode
+
+node_modules
+package-lock.json
+src/config/serviceAccount.json
+src/config/firebaseConfig.json
+
+.env
